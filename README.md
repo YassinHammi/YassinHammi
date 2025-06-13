@@ -1,4 +1,4 @@
-## Hi there 👋
+Oi, if you are seeing this that means alot, this is just a portofolio of my work that anyone can get inspiration from 
 
 <!--
 **YassinHammi/YassinHammi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
